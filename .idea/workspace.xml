@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0519268c-b660-4977-ae3c-60d0561f9092" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eiQ80lqw9y8oespFfrT5HGLGHw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/grabInfov1.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/grabInfov1.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\iwencai" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="grabInfo" type="PythonConfigurationType" factoryName="Python">
+      <module name="iwencai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grabInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="iwencai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\pywin32_2\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.grabInfo" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0519268c-b660-4977-ae3c-60d0561f9092" name="Default Changelist" comment="" />
+      <created>1594801770973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594801770973</updated>
+      <workItem from="1594801772123" duration="1309000" />
+      <workItem from="1594860730398" duration="133000" />
+      <workItem from="1594951829097" duration="12152000" />
+      <workItem from="1595037708533" duration="1128000" />
+      <workItem from="1595054659132" duration="29999000" />
+      <workItem from="1595153252627" duration="27843000" />
+      <workItem from="1595315527165" duration="9457000" />
+      <workItem from="1595409279362" duration="1904000" />
+      <workItem from="1595411195917" duration="7796000" />
+      <workItem from="1595428410306" duration="7588000" />
+      <workItem from="1595490017281" duration="18927000" />
+      <workItem from="1595557430878" duration="7000" />
+      <workItem from="1595558754044" duration="7000" />
+      <workItem from="1595574454629" duration="4630000" />
+      <workItem from="1595594174805" duration="2213000" />
+      <workItem from="1595832192104" duration="658000" />
+      <workItem from="1595863682558" duration="12707000" />
+      <workItem from="1595921500998" duration="7735000" />
+      <workItem from="1596203771655" duration="7804000" />
+      <workItem from="1596212656746" duration="7148000" />
+      <workItem from="1596334732363" duration="24507000" />
+      <workItem from="1596374889761" duration="17000" />
+      <workItem from="1596374917945" duration="1762000" />
+      <workItem from="1596376693617" duration="28000" />
+      <workItem from="1596376731856" duration="3157000" />
+      <workItem from="1596380135476" duration="346000" />
+      <workItem from="1596380495276" duration="5453000" />
+      <workItem from="1596419133509" duration="616000" />
+      <workItem from="1596419761908" duration="971000" />
+      <workItem from="1596420911988" duration="981000" />
+      <workItem from="1596549389829" duration="4320000" />
+      <workItem from="1596597286659" duration="435000" />
+      <workItem from="1596597734034" duration="18902000" />
+      <workItem from="1596627512741" duration="2767000" />
+      <workItem from="1596634814814" duration="145000" />
+      <workItem from="1596635052878" duration="3448000" />
+      <workItem from="1596677028693" duration="7745000" />
+      <workItem from="1596703356014" duration="2031000" />
+      <workItem from="1596722356103" duration="14746000" />
+      <workItem from="1596764978859" duration="6696000" />
+      <workItem from="1596794358967" duration="435000" />
+      <workItem from="1596853939825" duration="299000" />
+      <workItem from="1597449904289" duration="2083000" />
+      <workItem from="1597496195324" duration="56000" />
+      <workItem from="1597496261985" duration="114000" />
+      <workItem from="1597496603674" duration="10030000" />
+      <workItem from="1597666491532" duration="3018000" />
+      <workItem from="1597677490621" duration="7082000" />
+      <workItem from="1598425704980" duration="337000" />
+      <workItem from="1598426056345" duration="66000" />
+      <workItem from="1598426367855" duration="1975000" />
+      <workItem from="1598782528855" duration="26000" />
+      <workItem from="1599526540925" duration="2475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/grabInfov1.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.driver.find_element_by_id('pageBar').find_element_by_css_selector('a.current').text" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iwencai$grabInfov1.coverage" NAME="grabInfov1 Coverage Results" MODIFIED="1596283515899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wxid_snarh4e1ev2522/FileStorage/File/2020-08" />
+    <SUITE FILE_PATH="coverage/iwencai$grabInfo.coverage" NAME="grabInfo Coverage Results" MODIFIED="1595037949154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iwencai$main.coverage" NAME="main Coverage Results" MODIFIED="1598428000455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/iwencai$export.coverage" NAME="export Coverage Results" MODIFIED="1594976568337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
